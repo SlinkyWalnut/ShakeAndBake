@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import random
 with open('/workspaces/ShakeAndBake/Hangman/words.txt', 'r' )as f:
     words = f.readlines()
@@ -31,3 +32,7 @@ if done :
 else:
     print(f"Game over! The word was {word}!")
     
+=======
+import print 
+
+>>>>>>> refs/remotes/origin/main
